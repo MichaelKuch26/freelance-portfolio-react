@@ -35,7 +35,7 @@ const BtnDarkMode = () => {
   }
 
   const btnNormal = 'dark-mode-btn';
-  const btnActive = 'dark-mode-btn dark-mode-btn--active'
+  const btnActive = 'dark-mode-btn dark-mode-btn--active';
 
   return ( 
     <button className={darkMode==='dark' ? btnActive : btnNormal} onClick={toggleDarkMode}>

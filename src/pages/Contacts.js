@@ -10,11 +10,11 @@ return (
                 </li>
                 <li className="content-list__item">
                     <h2 className="title-2">Telegram / WhatsApp</h2>
-                    <p><a href="tel:+79051234567">+7 (927) 793-78-60</a></p>
+                    <p><a href="tel:+79277937860">+7 (927) 793-78-60</a></p>
                 </li>
                 <li className="content-list__item">
                     <h2 className="title-2">Email</h2>
-                    <p><a href="mailto:webdev@protonmail.com">mkuchaev@yandex.ru</a></p>
+                    <p><a href="mailto:mkuchaev@yandex.ru">mkuchaev@yandex.ru</a></p>
                 </li>
             </ul>
         </div>

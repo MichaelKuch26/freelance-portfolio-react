@@ -1,5 +1,5 @@
-import Project from "../components/project/Project";
 import {projects} from "./../helpers/projectsList";
+import Project from "./../components/project/Project";
 
 const Projects = () => {
     return ( 
@@ -13,8 +13,7 @@ const Projects = () => {
                         key={index}
                         title={project.title} 
                         img={project.img}
-                        index={index} 
-                        />
+                        index={index} />
                     );
                 })}
             </ul>
